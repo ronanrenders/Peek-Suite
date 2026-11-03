@@ -4,14 +4,14 @@
     "peek": {
       "name": "Peek File Explorer",
       "description": "See what's really inside your files.",
-      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek.png",
-      "version": "1.6.1",
-      "notes": "First release in Peek Suite.",
+      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.2/peek.png",
+      "version": "1.6.2",
+      "notes": "Tab names stay as words for longer on smaller windows.",
       "min_windows": "10.0.19041",
       "app": {
-        "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-1.6.1-win-x64.zip",
-        "sha256": "fa2f1f0e3261371224a0c5674a896ba7a77d292e6cec7b335e0fc7b86974700c",
-        "size": 978508
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.2/peek-1.6.2-win-x64.zip",
+        "sha256": "2eba82cba24ecb974831b40e7cdf810df27bde7194e1d9d949e2fc829f5d3beb",
+        "size": 980137
       },
       "runtime": {
         "version": 1,
