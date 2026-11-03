@@ -4,21 +4,48 @@
     "peek": {
       "name": "Peek File Explorer",
       "description": "See what's really inside your files.",
-      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.1/peek.png",
+      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek.png",
       "version": "1.6.1",
       "notes": "First release in Peek Suite.",
       "min_windows": "10.0.19041",
       "app": {
-        "url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.1/peek-1.6.1-win-x64.zip",
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-1.6.1-win-x64.zip",
         "sha256": "fa2f1f0e3261371224a0c5674a896ba7a77d292e6cec7b335e0fc7b86974700c",
         "size": 978508
       },
       "runtime": {
         "version": 1,
-        "url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-runtime-1/peek-runtime-1-win-x64.zip",
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-runtime-1-win-x64.zip",
         "sha256": "2be144ba8b7085f1241897a800e156b33b8e4761cb88518c8004b9a5cf77eb53",
         "size": 177114829
       }
+    },
+    "repeek": {
+      "name": "RePeek",
+      "description": "Instant replay for your games - a lightweight ShadowPlay alternative.",
+      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/repeek.png",
+      "version": "0.4.2",
+      "notes": "First release in Peek Suite.",
+      "min_windows": "10.0.19041",
+      "app": {
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/repeek-0.4.2-win-x64.zip",
+        "sha256": "2224097f4977133c531e6ae3e0f268f851e922a35e4c409dfffefcb1602c1594",
+        "size": 500276
+      },
+      "runtime": {
+        "version": 1,
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/repeek-runtime-1-win-x64.zip",
+        "sha256": "6aaa6f45450965ec234c6e0d97b012e44b4992aef9942d15b2defee964d1c7cd",
+        "size": 125464865
+      }
     }
+  },
+  "hub": {
+    "version": "1.0.0",
+    "min_windows": "10.0.19041",
+    "notes": "First release.",
+    "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-suite-1.0.0-win-x64.zip",
+    "sha256": "612dcec287b93aade0dd39b788149b9731dd7fc9adffdbdc236eaff53f3b3e8a",
+    "size": 40324016
   }
 }
