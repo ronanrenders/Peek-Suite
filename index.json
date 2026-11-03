@@ -41,11 +41,11 @@
     }
   },
   "hub": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "min_windows": "10.0.19041",
-    "notes": "First release.",
-    "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-suite-1.0.0-win-x64.zip",
-    "sha256": "612dcec287b93aade0dd39b788149b9731dd7fc9adffdbdc236eaff53f3b3e8a",
-    "size": 40324016
+    "notes": "Fixes installing apps.",
+    "url": "https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/peek-suite-1.0.1-win-x64.zip",
+    "sha256": "f2498fb807af6d6529689b0452152abd9484b1b311455a812b73aff9420400d1",
+    "size": 40324217
   }
 }
