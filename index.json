@@ -1,4 +1,24 @@
 {
   "format": 1,
-  "apps": {}
+  "apps": {
+    "peek": {
+      "name": "Peek File Explorer",
+      "description": "See what's really inside your files.",
+      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.1/peek.png",
+      "version": "1.6.1",
+      "notes": "First release in Peek Suite.",
+      "min_windows": "10.0.19041",
+      "app": {
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-1.6.1/peek-1.6.1-win-x64.zip",
+        "sha256": "fa2f1f0e3261371224a0c5674a896ba7a77d292e6cec7b335e0fc7b86974700c",
+        "size": 978508
+      },
+      "runtime": {
+        "version": 1,
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/peek-runtime-1/peek-runtime-1-win-x64.zip",
+        "sha256": "2be144ba8b7085f1241897a800e156b33b8e4761cb88518c8004b9a5cf77eb53",
+        "size": 177114829
+      }
+    }
+  }
 }
