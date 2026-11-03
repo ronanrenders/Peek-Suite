@@ -7,7 +7,7 @@ Peek Suite installs, updates and opens the Peek apps:
 
 ## Download
 
-**[Download Peek Suite Setup](https://github.com/ronanrenders/peek-suite/releases/download/suite-1.0.0/Peek.Suite.Setup.exe)**
+**[Download Peek Suite Setup](https://github.com/ronanrenders/peek-suite/releases/latest/download/Peek.Suite.Setup.exe)**
 
 Run it, then pick the apps you want. Peek Suite keeps them up to date.
 
