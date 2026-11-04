@@ -23,14 +23,14 @@
     "repeek": {
       "name": "RePeek",
       "description": "Instant replay for your games - a lightweight ShadowPlay alternative.",
-      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/repeek-0.4.4/repeek.png",
-      "version": "0.4.4",
-      "notes": "Fixes a bug in 0.4.3.",
+      "icon_url": "https://github.com/ronanrenders/peek-suite/releases/download/repeek-0.4.7/repeek.png",
+      "version": "0.4.7",
+      "notes": "Bug fixes and improvements.",
       "min_windows": "10.0.19041",
       "app": {
-        "url": "https://github.com/ronanrenders/peek-suite/releases/download/repeek-0.4.4/repeek-0.4.4-win-x64.zip",
-        "sha256": "3494b4ed2ed5377a741e137a53f6400f1b0229f3e463d90559b24d0e4f06f48d",
-        "size": 508587
+        "url": "https://github.com/ronanrenders/peek-suite/releases/download/repeek-0.4.7/repeek-0.4.7-win-x64.zip",
+        "sha256": "b749620e62e8c8386bf07f477c947abf6b221d9688393c95f07ac4c9f476b83b",
+        "size": 535140
       },
       "runtime": {
         "version": 1,
